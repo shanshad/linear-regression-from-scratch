@@ -58,15 +58,28 @@ Then follow the prompts to input x-values and get corresponding y predictions.
 🚀 Example Output
 
  for this linear regression we have: 
+ 
 (2, 8)
-(3, 12)
+
+(3, 12) 
+
 (4, 15)
+
 (5, 20)
+
 sum of x: 14
+
 sum of y: 55
+
 sum of xy: 212
+
 sum of xsqr: 54
+
 a: 0.1
+
 b: 3.9
+
 enter the value of x : 2
+
 for this value of x, as per linear regression the value of y is 7.9
+
