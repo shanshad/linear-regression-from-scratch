@@ -1,0 +1,16 @@
+#basic equations.file
+
+in linear regression analysis we use
+y=a+bx   where a=constant and b=slope of the line
+
+to find a and b we use the following equations
+1. sum(y)=n*a+b*sum(x)    where n=number of points we used
+2. sum(x*y)=a*sum(x)+b*sum(x^2)
+
+by solving these two equations we will obtain the values of a and b. substituting the values of
+a,b and x we will get the corresponding value of y
+
+---
+in parameters script we have found sum(y),sum(x),n,sum(x*y) and sum(x^2)
+---
+in solvinglinearequations script we solved equation 1 and equation 2 using numpy for a and b
