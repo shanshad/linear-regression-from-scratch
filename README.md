@@ -49,7 +49,9 @@ pip install numpy
 --- 
 
 ▶️ How to Run
+
 python linear_regression.py
+
 Then follow the prompts to input x-values and get corresponding y predictions.
  ---
  
